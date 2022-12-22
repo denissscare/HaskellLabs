@@ -1,0 +1,1 @@
+last'' l = foldl (flip const) undefined l
